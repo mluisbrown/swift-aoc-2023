@@ -1,5 +1,7 @@
 # Advent of Code Swift Starter Project
 
+Originally cloned from: https://github.com/apple/swift-aoc-starter-example
+
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
 
 Daily programming puzzles at [Advent of Code](<https://adventofcode.com/>), by
